@@ -1,0 +1,6 @@
+.env
+*.json
+agent.log
+last_run.txt
+__pycache__/
+.DS_Store
